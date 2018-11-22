@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Event]
+(
+	[EventID] INT NOT NULL PRIMARY KEY,
+	[PersonID] INT NOT NULL,
+	[EventTime] NVARCHAR(20) NOT NULL,
+	[EventDate] NVARCHAR(20) NOT NULL,
+	[EventVenue] NVARCHAR(100) NOT NULL,
+
+	CONSTRAINT Fk_PersonID FOREIGN KEY (PersonID) REFERENCES Person(PersonID)
+)

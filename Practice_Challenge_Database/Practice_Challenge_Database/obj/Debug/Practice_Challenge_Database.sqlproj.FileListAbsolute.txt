@@ -1,0 +1,9 @@
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\bin\Debug\Practice_Challenge_Database.dacpac
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\bin\Debug\Practice_Challenge_Database.dll
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\bin\Debug\Practice_Challenge_Database.pdb
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\Practice_Challenge_Database.dll
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\Practice_Challenge_Database.pdb
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\Model.xml
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\refactor.xml
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\postdeploy.sql
+C:\Users\STUDENT\source\repos\Practice_Challenge_Database\Practice_Challenge_Database\obj\Debug\predeploy.sql
